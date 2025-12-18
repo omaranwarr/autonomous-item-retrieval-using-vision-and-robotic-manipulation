@@ -5,7 +5,9 @@
 <div align="center">
 
 ![Panda Robot](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Panda_Arm.jpg/640px-Panda_Arm.jpg)
-*(Image placeholder — replace with your screenshot)*
+
+<img width="553" height="572" alt="Screenshot from 2025-12-18 15-46-36" src="https://github.com/user-attachments/assets/619c58f2-60c0-49f5-a622-bd6f8595fabb" />
+
 
 [![ROS2](https://img.shields.io/badge/ROS2-Humble-blue.svg)]()
 [![MoveIt](https://img.shields.io/badge/MoveIt2-Motion%20Planning-purple.svg)]()
