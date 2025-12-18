@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Panda Robot]([https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Panda_Arm.jpg/640px-Panda_Arm.jpg](https://robodk.com/robot/Franka/Emika-Panda))
+![Panda Robot]((https://robodk.com/robot/Franka/Emika-Panda))
 
 <img width="553" height="572" alt="Screenshot from 2025-12-18 15-46-36" src="https://github.com/user-attachments/assets/619c58f2-60c0-49f5-a622-bd6f8595fabb" />
 
