@@ -249,14 +249,6 @@ MIT License — modify and reuse freely.
 
 ---
 
-# 🙌 **Contributors**
-
-| Name             | Role                                           |
-| ---------------- | ---------------------------------------------- |
-| **Your Name**    | Vision, perception pipeline, ROS architecture  |
-| **Partner Name** | Motion planning, control, trajectory execution |
-
----
 
 # ⭐ **How to Support**
 
