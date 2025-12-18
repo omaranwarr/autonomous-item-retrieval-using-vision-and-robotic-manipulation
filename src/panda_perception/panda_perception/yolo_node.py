@@ -3,6 +3,7 @@ from rclpy.node import Node
 from geometry_msgs.msg import PoseStamped
 from ultralytics import YOLO
 import cv2
+import time
 
 
 class YoloDetector(Node):
@@ -34,7 +35,10 @@ class YoloDetector(Node):
             return
 
         # YOLO inference
+        start = time.time()
         results = self.model(img, verbose=False)
+        yolo_time = time.time() - start
+        self.get_logger().info(f"YOLO inference time: {yolo_time:.4f} sec")
 
         for r in results:
             for box in r.boxes:
