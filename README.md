@@ -5,9 +5,10 @@
 <div align="center">
 
 <a href="https://robodk.com/robot/Franka/Emika-Panda" target="_blank" rel="noopener noreferrer">Panda Robot arm</a>
+
+
 ![demo](https://github.com/omaranwarr/autonomous-item-retrieval-using-vision-and-robotic-manipulation/blob/main/demo-video.gif)
 
-<img width="553" height="572" alt="Screenshot from 2025-12-18 15-46-36" src="https://github.com/user-attachments/assets/619c58f2-60c0-49f5-a622-bd6f8595fabb" />
 
 
 [![ROS2](https://img.shields.io/badge/ROS2-Humble-blue.svg)]()
